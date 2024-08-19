@@ -1,8 +1,9 @@
 ## Hi there 👋
 I am a 3<sup>rd</sup> Year Computer Science and Mathematics student at the University of Manchester
 
-## My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shannon-Barretto&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!-- ## My Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shannon-Barretto&theme=dark)](https://git.io/streak-stats) -->
+
 <!--
 **Shannon-Barretto/Shannon-Barretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
