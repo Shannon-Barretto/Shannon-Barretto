@@ -1,5 +1,5 @@
-## Hi there 👋
-I am a 3<sup>rd</sup> Year Computer Science and Mathematics student at the University of Manchester
+## <p align="center">Hi👋 </p>
+My name is Shannon Barretto, and I am a 3<sup>rd</sup> Year Computer Science and Mathematics student at the University of Manchester
 
 <!-- ## My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shannon-Barretto&theme=dark)](https://git.io/streak-stats) -->
@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌎 I am based in the United Kingdom
+- 🧠 I am interested in Machine Learning (ML) and Software Engineering (SWE)
+- ✉️ You can contact me on [LinkedIn](https://www.linkedin.com/in/shannonbarretto/)
