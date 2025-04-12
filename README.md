@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌎 I am based in the United Kingdom
-- 🧠 I am interested in Machine Learning (ML) and Software Engineering (SWE)
+- 🧠 I am interested in Quantitative Analytics and Machine Learning (ML)
 - ✉️ You can contact me on [LinkedIn](https://www.linkedin.com/in/shannonbarretto/)
