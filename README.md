@@ -1,5 +1,5 @@
 ## <p align="center">Hi👋 </p>
-My name is Shannon Barretto, and I am a 3<sup>rd</sup> Year Computer Science and Mathematics student at the University of Manchester
+My name is Shannon Barretto, and I am a Computer Science and Mathematics graduate from The University of Manchester
 
 <!-- ## My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shannon-Barretto&theme=dark)](https://git.io/streak-stats) -->
